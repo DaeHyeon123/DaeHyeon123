@@ -25,4 +25,4 @@ Collaborative
 
 <img alt="Notion" src ="https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white"/>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&theme=tokyonight&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaeHyeon123&theme=tokyonight&show_icons=true)
