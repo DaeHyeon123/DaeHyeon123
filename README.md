@@ -5,11 +5,11 @@
 ### skills
 ML/DL
 
-<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="Pytorch" src ="https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=for-the-badge&logo=Pytorch&logoColor=white"/> <img alt="Numpy" src ="https://img.shields.io/badge/Numpy-013243.svg?&style=for-the-badge&logo=Numpy&logoColor=white"/> <img alt="Pandas" src ="https://img.shields.io/badge/Pandas-150458.svg?&style=for-the-badge&logo=Pandas&logoColor=white"/> <img alt="Tensorflow" src ="https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=for-the-badge&logo=Tensorflow&logoColor=white"/> <img alt="Scikit-learn" src ="https://img.shields.io/badge/Scikit_learn-F7931E.svg?&style=for-the-badge&logo=Scikit-learn&logoColor=white"/> <img alt="Opencv" src ="https://img.shields.io/badge/Opencv-44CC11.svg?&style=for-the-badge&logo=Opencv&logoColor=white"/>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) <img alt="Pytorch" src ="https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=for-the-badge&logo=Pytorch&logoColor=white"/> <img alt="Numpy" src ="https://img.shields.io/badge/Numpy-013243.svg?&style=for-the-badge&logo=Numpy&logoColor=white"/> <img alt="Pandas" src ="https://img.shields.io/badge/Pandas-150458.svg?&style=for-the-badge&logo=Pandas&logoColor=white"/> <img alt="Tensorflow" src ="https://img.shields.io/badge/Tensorflow-FF6F00.svg?&style=for-the-badge&logo=Tensorflow&logoColor=white"/> <img alt="Scikit-learn" src ="https://img.shields.io/badge/Scikit_learn-F7931E.svg?&style=for-the-badge&logo=Scikit-learn&logoColor=white"/> <img alt="Opencv" src ="https://img.shields.io/badge/Opencv-44CC11.svg?&style=for-the-badge&logo=Opencv&logoColor=white"/>  ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 
 Front_End
 
-<img alt="Javascript" src ="https://img.shields.io/badge/Javascript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=white"/> <img alt="Html5" src ="https://img.shields.io/badge/Html5-E34F26.svg?&style=for-the-badge&logo=Html5&logoColor=white"/> <img alt="Css" src ="https://img.shields.io/badge/Css-1572B6.svg?&style=for-the-badge&logo=Css&logoColor=white"/> <img alt="React" src ="https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 
 Back_End
 
@@ -17,7 +17,11 @@ Back_End
 
 Tools
 
-<img alt="Pycharm" src ="https://img.shields.io/badge/Pycharm-97CA00.svg?&style=for-the-badge&logo=Pycharm&logoColor=white"/> <img alt="Vs_code" src ="https://img.shields.io/badge/Vs_code-0078D7.svg?&style=for-the-badge&logo=Vs_code&logoColor=white"/> <img alt="Google_colab" src ="https://img.shields.io/badge/Google_colab-F9AB00.svg?&style=for-the-badge&logo=Google_colab&logoColor=white"/> <img alt="Jupyter_notebook" src ="https://img.shields.io/badge/Jupyter_notebook-F37626.svg?&style=for-the-badge&logo=Jupyter_notebook&logoColor=white"/> <img alt="Git" src ="https://img.shields.io/badge/Git-F05033.svg?&style=for-the-badge&logo=Git&logoColor=white"/> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/> <img alt="Figma" src ="https://img.shields.io/badge/Figma-C0B3F7.svg?&style=for-the-badge&logo=Figma&logoColor=white"/>
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) <img alt="Google_Colab" src ="https://img.shields.io/badge/Google_Colab-F9AB00.svg?&style=for-the-badge&logo=GoogleColab&logoColor=white"/> <img alt="Jupyter_Notebook" src ="https://img.shields.io/badge/Jupyter_Notebook-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/> <img alt="Figma" src ="https://img.shields.io/badge/Figma-C0B3F7.svg?&style=for-the-badge&logo=Figma&logoColor=white"/> ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+
+Version Control
+
+<img alt="Git" src ="https://img.shields.io/badge/Git-F05033.svg?&style=for-the-badge&logo=Git&logoColor=white"/> <img alt="Github" src ="https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white"/>
 
 Collaborative
 
