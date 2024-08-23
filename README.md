@@ -117,6 +117,15 @@
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 [Notion 바로가기]()
+</div>
+
+
+<div align="center">
+  
+<img alt="Tistory" src ="https://img.shields.io/badge/Tistory-EB531F.svg?&style=for-the-badge&logo=Tistory&logoColor=white"/>
+
+[Blog 바로가기](https://young0378.tistory.com/)
+</div>
 
 ## 📊 My Github Stats 📊
 
@@ -131,8 +140,8 @@
 <details>
 <summary>프로젝트 펼치기</summary>
   
-###  [ KDT 1차 프로젝트 | MindGlow ]()
-> 다국어지도
+###  [ KDT 1차 프로젝트 | SVL ]()
+> 공공데이터 기반 다국어지도
 >
 > 
 
@@ -141,8 +150,8 @@
 <br/>
 <hr>
 
-###  [ KDT 2차 프로젝트 | sanjae.gg ]()
-> EPL 챗봇 
+###  [ KDT 2차 프로젝트 | PLE ]()
+> AI기반 EPL 챗봇 
 >
 > 
 
@@ -151,7 +160,7 @@
 <br/>
 <hr>
 
-###  [ KDT 3차 프로젝트 | YET | ComputerVision Project ]()
+###  [ KDT 3차 프로젝트 | Gruit | ComputerVision Project ]()
 >
 > 
 ![프레젠테이션1](https://github.com/user-attachments/assets/da186406-f83e-4c93-8538-a5a32db294e0)
