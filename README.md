@@ -163,7 +163,7 @@
 ###  [ KDT 3차 프로젝트 | Gruit | ComputerVision Project ](https://github.com/DaeHyeon123/GRUIT)
 > AI로 보는 식자재 판별 서비스
 > 
-![image](https://github.com/user-attachments/assets/db9a8026-d86b-4704-a8e4-106bedb40a75)
+![image](https://github.com/user-attachments/assets/534ecea6-5d69-42c2-81e8-ca85671ef3b0)
 
 
 </details>
