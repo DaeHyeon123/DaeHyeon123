@@ -140,12 +140,12 @@
 <details>
 <summary>프로젝트 펼치기</summary>
   
-###  [ KDT 1차 프로젝트 | SVL ]()
+###  [ KDT 1차 프로젝트 | SVL ](https://github.com/DaeHyeon123/SVL)
 > 공공데이터 기반 다국어지도
 >
 > 
 
-![메인](https://github.com/user-attachments/assets/029f7a0d-a131-4292-bada-857edb4db8ef)
+![image](https://github.com/user-attachments/assets/6bf28a65-c439-4c66-8447-b618d0392d54)
 
 <br/>
 <hr>
