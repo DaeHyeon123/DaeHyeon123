@@ -150,8 +150,8 @@
 <br/>
 <hr>
 
-###  [ KDT 2차 프로젝트 | PLE ]()
-> AI기반 EPL 챗봇 
+###  [ KDT 2차 프로젝트 | PLE ](https://github.com/DaeHyeon123/PLE)
+> AI기반 EPL 챗봇 도우미
 >
 > 
 
